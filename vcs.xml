@@ -22,6 +22,10 @@
           <option name="url" value="https://1181555@bitbucket.org/switch2019/switch2019_g5.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/spring-guides/tut-react-and-spring-data-rest.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Tarcisio\SWITCH\VCS\VCS" />
