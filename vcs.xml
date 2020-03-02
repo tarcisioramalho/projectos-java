@@ -26,6 +26,10 @@
           <option name="url" value="https://github.com/spring-guides/tut-react-and-spring-data-rest.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://1181555@bitbucket.org/1181555/devops-19-20-b.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Tarcisio\SWITCH\VCS\VCS" />
