@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="test-results" type="PLAIN_TEXT" />
       <mapping pattern="Java" type="PLAIN_TEXT" />
+      <mapping pattern="GetPersonTransactionsInPeriod_AfterController_SR9" type="PlantUML file" />
     </extensionMap>
   </component>
 </application>
