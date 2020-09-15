@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="test-results" type="PLAIN_TEXT" />
       <mapping pattern="Java" type="PLAIN_TEXT" />
       <mapping pattern="GetPersonTransactionsInPeriod_AfterController_SR9" type="PlantUML file" />
